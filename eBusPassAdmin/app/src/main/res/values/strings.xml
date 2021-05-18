@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Raw ePass Admin</string>
+    <string name="pending_requests">Pending</string>
+    <string name="completed_requests">Completed</string>
+
+    <string name="nav_header_name">Admin</string>
+    <string name="nav_header_email">busadmin@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

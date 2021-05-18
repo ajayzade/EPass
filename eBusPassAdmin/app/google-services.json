@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "270492493545",
+    "firebase_url": "https://ebusspass-ac11b-default-rtdb.firebaseio.com",
+    "project_id": "ebusspass-ac11b",
+    "storage_bucket": "ebusspass-ac11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270492493545:android:7249d1d8e3c8d72ef2b278",
+        "android_client_info": {
+          "package_name": "com.rawtalent.epass_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270492493545-bkitrqugmesm27okunlci70imsitpvri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlqkvpYBSry5fHEoh6wLOOq6BCN4vQ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270492493545-bkitrqugmesm27okunlci70imsitpvri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270492493545:android:d3020be20e2652c0f2b278",
+        "android_client_info": {
+          "package_name": "com.rawtalent.epass_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270492493545-bkitrqugmesm27okunlci70imsitpvri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlqkvpYBSry5fHEoh6wLOOq6BCN4vQ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270492493545-bkitrqugmesm27okunlci70imsitpvri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

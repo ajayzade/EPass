@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    app:cardCornerRadius="5dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" from Source\n to Destination"
+            android:id="@+id/location"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:textSize="20sp">
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:id="@+id/validity"
+            android:text="Validity: 5 months"
+            android:textSize="14sp"
+            >
+        </TextView>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Verify Details"
+            android:background="@drawable/rounded_shape"
+            android:textColor="#fff"
+            android:padding="5dp"
+            android:id="@+id/verifyDetails"
+            android:layout_gravity="end"
+            android:layout_marginBottom="5dp"
+
+            >
+        </Button>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
